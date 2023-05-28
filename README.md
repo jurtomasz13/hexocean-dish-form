@@ -9,11 +9,11 @@ NODE: v18.12.1
 
 ## Setup
 
-To run this project, install it localy using yarn:
+To run this project, install it localy using npm:
 
 ```bash
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 ### Time spent
